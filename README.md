@@ -1,6 +1,6 @@
-# Project Name
+# appMEAN
 
-Welcome to the README of my GitHub project!
+Welcome to the README of appMEAN project!
 
 ## Introduction
 
