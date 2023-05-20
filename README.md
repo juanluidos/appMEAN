@@ -21,10 +21,10 @@ Feel free to explore the different sections of this README to gain a comprehensi
 
 ## Getting Started
 
-To get started with this project, please follow the installation instructions provided in the [documentation](link-to-documentation). Once you have the project set up, you can run the sample app and explore its features.
+To get started with this project, please follow the installation instructions provided in the docs. Once you have the project set up, you can run the sample app and explore its features.
 
 ## License
 
-This project is licensed under the [MIT License](link-to-license). You are free to modify and distribute the code as per the terms of the license.
+This project is full open source. You are free to modify and distribute the code as you want.
 
 Thank you for your interest in this project, and we hope it serves as a valuable resource for your JavaScript development journey.
