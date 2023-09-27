@@ -1,6 +1,6 @@
 # appMEAN
 
-Welcome to the README of appMEAN project!
+Welcome to the appMEAN project!
 
 ## Introduction
 
